@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3001d23.css",
-    "main.js": "/static/js/main.39fd0261.js",
-    "static/js/787.8baaf589.chunk.js": "/static/js/787.8baaf589.chunk.js",
-    "static/media/myPics.png": "/static/media/myPics.7d911dcb2318cf530f74.png",
-    "static/media/myCV.pdf": "/static/media/myCV.6b9373074f550c436e2b.pdf",
-    "static/media/portfolio1djcorp.png": "/static/media/portfolio1djcorp.27e58f4263495db8f868.png",
-    "static/media/portfolio1rmollampung.png": "/static/media/portfolio1rmollampung.a8e2e19f48fbbb1b48f6.png",
-    "static/media/portfolio1rmolnetwork.png": "/static/media/portfolio1rmolnetwork.91483659c868224f63cc.png",
-    "static/media/Pics2.jpg": "/static/media/Pics2.85c62da51be8ac9171a3.jpg",
-    "index.html": "/index.html",
-    "main.e3001d23.css.map": "/static/css/main.e3001d23.css.map",
-    "main.39fd0261.js.map": "/static/js/main.39fd0261.js.map",
-    "787.8baaf589.chunk.js.map": "/static/js/787.8baaf589.chunk.js.map"
+    "main.css": "/tw-react-cv/static/css/main.e3001d23.css",
+    "main.js": "/tw-react-cv/static/js/main.de72ec49.js",
+    "static/js/787.8baaf589.chunk.js": "/tw-react-cv/static/js/787.8baaf589.chunk.js",
+    "static/media/myPics.png": "/tw-react-cv/static/media/myPics.7d911dcb2318cf530f74.png",
+    "static/media/myCV.pdf": "/tw-react-cv/static/media/myCV.6b9373074f550c436e2b.pdf",
+    "static/media/portfolio1djcorp.png": "/tw-react-cv/static/media/portfolio1djcorp.27e58f4263495db8f868.png",
+    "static/media/portfolio1rmollampung.png": "/tw-react-cv/static/media/portfolio1rmollampung.a8e2e19f48fbbb1b48f6.png",
+    "static/media/portfolio1rmolnetwork.png": "/tw-react-cv/static/media/portfolio1rmolnetwork.91483659c868224f63cc.png",
+    "static/media/Pics2.jpg": "/tw-react-cv/static/media/Pics2.85c62da51be8ac9171a3.jpg",
+    "index.html": "/tw-react-cv/index.html",
+    "main.e3001d23.css.map": "/tw-react-cv/static/css/main.e3001d23.css.map",
+    "main.de72ec49.js.map": "/tw-react-cv/static/js/main.de72ec49.js.map",
+    "787.8baaf589.chunk.js.map": "/tw-react-cv/static/js/787.8baaf589.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3001d23.css",
-    "static/js/main.39fd0261.js"
+    "static/js/main.de72ec49.js"
   ]
 }
